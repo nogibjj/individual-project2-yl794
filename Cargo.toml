@@ -1,0 +1,12 @@
+[package]
+name = "week8"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+csv = "1.1"
+statrs = "0.14"
+sys-info = "0.9"
+
+[dev-dependencies]
+pretty_assertions = "0.7"
