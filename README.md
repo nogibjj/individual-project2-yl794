@@ -1,6 +1,7 @@
 # Individual Project 2
 
 This project I read a csv file and load data into database, then do CRUD on the databse using CLI tools.
+video link here: 
 
 ## Requirements:
 
